@@ -1,0 +1,106 @@
+body {
+    background-image: url(index-photo/black_paper.png);
+    background: #111;
+
+    color: whitesmoke;
+}
+
+.navbar {
+ padding: 25px;
+ margin-bottom: 30px;
+ font-size: 25px;   
+}
+
+h1 {
+    padding-top: 55px;
+    font-family: 'Caveat', cursive;
+    font-size:78px ;
+    line-height: 1.04;
+    background: -webkit-radial-gradient(center top, #EB9038, #F3C3CF, #8DC4F3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 400;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+.b1-text{
+    padding-top: 25px;
+    font-size: 28px ;
+    line-height: 1.04;
+    background: -webkit-radial-gradient(center top, #EB9038, #F3C3CF, #8DC4F3);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 400;
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+.b1-button {
+    border: 0;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.08;
+    letter-spacing: 2.1px;
+    text-transform: uppercase;
+    padding: 17px 24px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-radius: 5px;
+    -webkit-transition: all,.1s;
+    -o-transition: all,.1s;
+    transition: all,.1s;
+    background-image: none;
+    display: inline-block;
+    margin-bottom: 48px;
+}
+
+
+.photo-down1 {
+    padding-top: 75px;
+}
+
+.photo-down2 {
+    padding-top: 150px;
+}
+.bloc2, .bloc5 {
+    background-color: whitesmoke;
+    color: #000;
+    text-align: center;
+    margin: 0px;
+    margin-bottom: 0mm;
+}
+
+.bloc3 {
+    background: radial-gradient(100% 100% at 50% 0%, #eb9038 0%, #f3c3cf 51.56%, #8dc4f3 100%);
+    height: 1000px;
+    text-align: center;
+    font-size: 78px;
+    padding: 500px;
+}
+
+.bloc4 {
+    text-align: center;
+    padding: 50px;
+}
+
+.block6 {
+    background: linear-gradient(#111 0%, #3d4853 100%); 
+    height: 400px;
+    padding: 100px;
+    text-align: center;
+}
+
+.footer {
+    background-color:  #3d4853;
+    height: 200px;
+}
+
+.footer-content {
+    width: 50%;
+}
+
+.footer-bottom {
+    text-align: center;
+    text-decoration: none;
+}
